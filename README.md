@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=typing&color=0:0f2027,100:203a43&height=250&section=header&text=Manish%20Pareek|React%20Developer|Full%20Stack%20Web%20Developer|MERN%20Stack&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlign=left" />
+  <img src="https://capsule-render.vercel.app/api?type=typing&color=0:0f2027,100:203a43&height=250&section=header&text=Manish%20Pareek%20%7C%20React%20Developer%20%7C%20Full%20Stack%20Web%20Developer%20%7C%20MERN%20Stack&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlign=left" />
 </p>
+
 
 ## 💼 About Me
 
