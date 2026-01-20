@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Manish%20Pareek%20|%20Full%20Stack%20Web%20Developer%20|%20MERN%20Stack&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=Manish%20Pareek%20%7C%20Full%20Stack%20Web%20Developer%20%7C%20MERN%20Stack&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ## 💼 About Me
@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="mailto:manishpareek.3334@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email" /></a>
-  <a href="https://www.linkedin.com/in/manishpareek/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/manish-pareek-fullstack/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn" /></a>
   <a href="https://leetcode.com/u/manishpareek/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&label=LeetCode" /></a>
 </p>
 
